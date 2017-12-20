@@ -1,0 +1,8 @@
+Pairwise string alignment in Python
+
+Code written for Bioinformatics course assignments and exam at University of Trento
+The individual algorithms were later compiled into a single library Alignment.py
+and the files needle and water import the functions from Alignment.py 
+
+1. Smith-Waterman = local alignment
+2. Needleman-Wunsch = global alignment
